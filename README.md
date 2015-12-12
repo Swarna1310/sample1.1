@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+my changes to README
 
 
 # NodeExpress
